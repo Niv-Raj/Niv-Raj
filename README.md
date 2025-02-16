@@ -14,8 +14,6 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 
 🌱 Passionate about solving complex business problems using data-driven insights  
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/niveditha-cr/) | Email: niveditha.cr.9@gmail.com  
-
 🚀 Always exploring the latest in AI, cloud technologies, and data automation!  
 
 ---
@@ -30,10 +28,10 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niveditha-cr/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Niv-Raj)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:niveditha.cr.9@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/niveditha-cr/)  
+- [GitHub](https://github.com/Niv-Raj)  
+- [Email](mailto:niveditha.cr.9@gmail.com)
 
 ---
 
-🔥 Always learning, building, and sharing insights in the world of data science!  
+🔥 Always learning, building, and sharing insights in the world of data science!
