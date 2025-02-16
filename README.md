@@ -20,13 +20,13 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 
 ## 💻 Skills
 
-### 🔧 **Programming Languages**  
+#### 🔧 **Programming Languages**  
 Python, R, SQL, PySpark, C, MATLAB, Scala  
 
-### 📊 **Data Science & BI Tools**  
+#### 📊 **Data Science & BI Tools**  
 Snowflake, Azure, AWS, Tableau, Power BI, Looker, MySQL, Apache Airflow  
 
-### 📚 **Libraries & Frameworks**  
+#### 📚 **Libraries & Frameworks**  
 Keras, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, XGBoost, LightGBM, Plotly  
 
 ---
