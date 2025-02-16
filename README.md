@@ -20,6 +20,8 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 
 ## 🔧 Languages and Tools  
 
+[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+
 **Programming:** Python, R, SQL, PySpark, Scala, MATLAB  
 **Data Science & BI:** Tableau, Power BI, Looker, Snowflake, Azure, AWS, Snowflake, MySQL, Apache Airflow  
 **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, XGBoost  
