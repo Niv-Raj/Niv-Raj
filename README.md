@@ -6,11 +6,11 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 
 ## About Me 🚀  
 
-🎓 Master’s in Data Science @ New Jersey Institute of Technology  
+🎓 Master's in Data Science, New Jersey Institute of Technology
 
-🔭 Currently working as a Data Scientist @ JerseySTEM  
+💼 Currently working as a Data Scientist at JerseySTEM
 
-💻 Former Data Engineer @ TheMathCompany  
+💻 Former Data Engineer at TheMathCompany
 
 🌱 Passionate about solving complex business problems using data-driven insights  
 
