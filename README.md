@@ -28,15 +28,15 @@ I'm a data-driven professional with over 3 years of experience in Data Science, 
 ## 💻 Skills
 
 ### 🔧 **Programming Languages**  
-<a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo.png" width="50" /></a>  
-<a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.png" width="50" /></a>  
-<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_Logo.svg" width="50" /></a>  
-<a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Apache_Spark_logo.svg/400px-Apache_Spark_logo.svg.png" width="50" /></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" /></a>  
+<a href="https://www.r-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo_2013.png" width="50" /></a>  
+<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/MySQL_logo.svg" width="50" /></a>  
+<a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Apache_Spark_logo.svg" width="50" /></a>
 
 ### 📊 **Data Science & BI Tools**  
-<a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Snowflake_Logo.svg" width="50" /></a>  
-<a href="https://azure.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Microsoft_Azure_Logo.svg" width="50" /></a>  
-<a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Amazon_Web_Services_Logo.svg" width="50" /></a>  
+<a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Snowflake_logo.svg" width="50" /></a>  
+<a href="https://azure.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Microsoft_Azure_Logo.svg" width="50" /></a>  
+<a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Amazon_Web_Services_Logo.svg" width="50" /></a>  
 <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Tableau_Logo.svg" width="50" /></a>
 
 ### 📚 **Libraries & Frameworks**  
