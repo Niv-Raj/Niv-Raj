@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🚀  
 
-I'm a data-driven professional with over 4 years of experience in Data Science, Machine Learning, and Business Intelligence. Skilled in developing predictive models, optimizing data pipelines, and creating insightful dashboards to drive decision-making.  
+I'm a data-driven professional with over 5 years of experience in Data Science, Machine Learning, and Business Intelligence. Skilled in developing predictive models, optimizing data pipelines, and creating insightful dashboards to drive decision-making.  
 
 ---
 
