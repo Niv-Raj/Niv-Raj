@@ -8,7 +8,7 @@ I'm a data-driven professional with over 4 years of experience in Data Science, 
 
 🎓 Master's in Data Science, New Jersey Institute of Technology
 
-💼 Currently working as a BI Data Engineer at JerseySTEM
+💼 Currently working as a Data Engineer at JerseySTEM
 
 💻 Former Data Engineer at TheMathCompany
 
