@@ -8,7 +8,7 @@ I'm a data-driven professional with over 5 years of experience designing data pi
 
 🎓 Master's in Data Science, New Jersey Institute of Technology
 
-💼 Currently working as a Data Engineer at JerseySTEM
+💼 Currently working as a Data Engineer at First Command Financials
 
 💻 Former Data Engineer at TheMathCompany
 
