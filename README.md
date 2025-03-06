@@ -20,11 +20,13 @@ I'm a data-driven professional with over 5 years of experience designing data pi
 
 ## Skills
 
-💻 **Programming Languages**: Python, R, SQL, PySpark, C, MATLAB, Scala  
+💻 **Programming & Data Tools**: Python, R, SQL, PySpark, C, MATLAB, Scala
 
-📊 **Data Science & BI Tools**: Snowflake, Azure, AWS, Tableau, Power BI, Looker, MySQL, Apache Airflow  
+☁️ **Cloud Data Engineering**: AWS (S3, Redshift, Glue, Lambda), Azure (Databricks, Data Lake, Synapse, Data Factory, DevOps), Snowflake
 
-📚 **Libraries & Frameworks**: Keras, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, XGBoost, LightGBM, Plotly  
+📊 **BI & Databases**: Tableau, Power BI, Looker, MySQL, SQL Server, PostgreSQL, Data Modelling, API Integration, A/B Testing
+
+📚 **ML & Analytics**: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Forecasting, Statistical Modelling
 
 ---
 
