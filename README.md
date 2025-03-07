@@ -10,7 +10,7 @@ I'm a data-driven professional with 4 years of experience designing data pipelin
 
 💼 Currently working as a Data Engineer at JerseySTEM
 
-💻 Former Data Engineer at TheMathCompany
+💻 Former Data Engineer at MathCo
 
 🌱 Passionate about solving complex business problems using data-driven insights  
 
