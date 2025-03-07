@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🚀  
 
-I'm a data-driven professional with over 5 years of experience designing data pipelines, optimizing architectures, and delivering actionable insights using machine learning, data modelling, and BI tools like Tableau, Power BI, and Looker. Proficient in Python, R, SQL, Snowflake, Azure, and AWS. Skilled at collaborating with cross-functional teams to transform complex datasets into data-driven solutions that support strategic decisions. 
+I'm a data-driven professional with 4 years of experience designing data pipelines, optimizing architectures, and delivering actionable insights using machine learning, data modelling, and BI tools like Tableau, Power BI, and Looker. Proficient in Python, R, SQL, Snowflake, Azure, and AWS. Skilled at collaborating with cross-functional teams to transform complex datasets into data-driven solutions that support strategic decisions. 
 
 ---
 
