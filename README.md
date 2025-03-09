@@ -32,7 +32,7 @@ I'm a data-driven professional with 4 years of experience designing data pipelin
 
 ## 🤝 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/niveditha-cr/)  
+- [LinkedIn](https://www.linkedin.com/in/niveditharaju/)  
 - [GitHub](https://github.com/Niv-Raj)  
 - [Email](mailto:niveditha.cr.9@gmail.com)
 
